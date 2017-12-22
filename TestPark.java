@@ -1,8 +1,4 @@
 /*
- * Author: Prof Picard
- * ITC2002-21445
- * Title: TestPark, Chapter 5, 
- * Programming Example problem #8
  * Description: Scans input from the user for different amenities assigned to Park objects
 */
 

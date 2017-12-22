@@ -1,8 +1,4 @@
 /*
- * Author: Prof Picard
- * ITC2002-21445
- * Title: Park, Chapter 5, 
- * Programming Example problem #8
  * Description: Sets up the class file and methods for Testpark 
 */
 public class Park
